@@ -160,7 +160,7 @@ form {
 }
 
 #mobile-intro-popup {
-  position: 0px;
+  position: absolute;
   bottom: 5vh;
   left: 10vw;
   width: 70vw;
